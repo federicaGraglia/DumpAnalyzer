@@ -23,7 +23,7 @@ Written in C++ using the ROOT framework.
 
 ## Installation and Usage
 
-1. Install ROOT from https://root.cern/install/
+1. Install [ROOT](https://root.cern/install/)
 2. Compile Makefile
 3. Run the project with ./DumpAnalyzer1 [OPTIONS] [MEMORY-DUMP.bin] [OUTPUT.csv]
 4. To show help menu run ./DumpaAnalyzer1 -h
